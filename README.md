@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-[GPS - NMEA sentence information] (http://aprs.gids.nl/nmea/)
+GPS - NMEA Sentence Information [GPS - NMEA](http://aprs.gids.nl/nmea/)
 
 ### Interpreted Message in this project
 * GPGGA
