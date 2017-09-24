@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-GPS - NMEA Sentence Information [GPS - NMEA](http://aprs.gids.nl/nmea/)
+GPS - NMEA Sentence Information: [GPS - NMEA](http://aprs.gids.nl/nmea/)
 
 ### Interpreted Message in this project
 * GPGGA
@@ -27,3 +27,8 @@ GPS - NMEA Sentence Information [GPS - NMEA](http://aprs.gids.nl/nmea/)
 * NTRIP 메시지 분석 및 RTK Algorithm 분석작업은 조팀장과 협의해서 처리
 
 ### Program 구동 방법
+* gps-simulation program on heroku: [gps-simulation](https://gps-simulation.herokuapp.com/) 
+* 원하는 갯수 만큼의 GPS sentence 숫자를 input box에 입력한 후 Start GPS 버튼 클릭
+* 중간에 Pause, Restart 가능함
+* 상단 메뉴바에 DGPS는 클릭 가능하나 아직 미구현
+* 메뉴에 NTRIP 메시지도 추가할 예정
