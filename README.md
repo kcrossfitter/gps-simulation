@@ -32,3 +32,5 @@ GPS - NMEA Sentence Information: [GPS - NMEA](http://aprs.gids.nl/nmea/)
 * 중간에 Pause, Restart 가능함
 * 상단 메뉴바에 DGPS는 클릭 가능하나 아직 미구현
 * 메뉴에 NTRIP 메시지도 추가할 예정
+* 프로그램 화면은 Responsive하므로 Mobile에서 보는데도 무리가 없음
+  * 큰 화면에서는 2 x 2, 작은 화면에서는 4 x 1로 표시
