@@ -34,3 +34,10 @@ GPS - NMEA Sentence Information: [GPS - NMEA](http://aprs.gids.nl/nmea/)
 * 메뉴에 NTRIP 메시지도 추가할 예정
 * 프로그램 화면은 Responsive하므로 Mobile에서 보는데도 무리가 없음
   * 큰 화면에서는 2 x 2, 작은 화면에서는 4 x 1로 표시
+
+### 9.25 진행 경과
+* 국립해양측위정보원에 문의 결과 Ntrip 정보를 받는 방법은 Ntrip Client를 이용하거나, 동 기관에서 제공하는 스마트폰 기반 서비스를 이용하는 방법밖에 없음
+* 즉, 프로그램적으로 관련 정보에 접근하는 방법이 현재 없음. Open API 형태로 Key를 제공하는 방법은 현재 개발 중에 있다고 하는데 우리가 필요한 것은 Open API 형태.
+* 국토지리정보원도 자체 개발 [Ntrip Client](http://www.gnssdata.or.kr/rtcm/getRtcmView.do) 배포 중
+* 국토지리정보원의 경우도 Ntrip Client를 통해서만 자료 수신 가능한 상태고 Open API 형태로 제공할 구체적인 계획은 없는 상태
+* 현재 Ntrip Client는 윈도우즈용 밖에 없는 상태로 우회해서 데이터를 획득하는 방법을 강구해야 함
